@@ -5,7 +5,7 @@ Danışman: @keyvanarasteh
 
 
 <a href="https://codescene.com/" rel="nofollow">
-   <img src="https://github.com/ilknurkavakli/mobil_odev/assets/149080064/64fbe4bf-a34b-4515-9b93-0a5123b17f5d" width="400" height="400" >
+   <img src="https://github.com/ilknurkavakli/mobil_odev/assets/149080064/64fbe4bf-a34b-4515-9b93-0a5123b17f5d" width="310" height="493" >
    <br>
 
 </a>
